@@ -7,7 +7,7 @@
 **$ git add (nome do arquivo/Pasta_)** -> Adiciona o arquivou ou pasta escolhida no git.
 **$ git add .** -> envia todos os arquivos que estão pendentes
 
-**$ git commit (nome do arquivo e tipo do arquivo(por exemplo index.html)) -m "mensagem"** -> Commita apenas um arquivo especifico
+**$ git commit (nome do arquivo e tipo do arquivo(por exemplo index.html)) -m "mensagem"** -> Commita apenas um arquivo especifico                   
 **$ git commit -a -m "mensagem"**-> Ele envia todos arquivos que precisam ser commitados no git
 
 **$ git branch -M main** -> Cria uma Ramificação inicial, a mestra.
