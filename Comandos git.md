@@ -1,4 +1,4 @@
-**### Comandos Basicos do Git -**
+### Comandos Basicos do Git -
 
 **$ git status** -> Mostra o Status do seu arquivo, se teve alguma modificação, ou algum arquivo adicionado no seu repositorio, e tambem avisa quando não tem um .git no seu repositorio.
 
