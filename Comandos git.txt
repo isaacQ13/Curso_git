@@ -1,8 +1,8 @@
 Comandos Basicos do Git -
 
-$ ##git status -> Mostra o Status do seu arquivo, se teve alguma modificação, ou algum arquivo adicionado no seu repositorio, e tambem avisa quando não tem um .git no seu repositorio.
+**$ git status** -> Mostra o Status do seu arquivo, se teve alguma modificação, ou algum arquivo adicionado no seu repositorio, e tambem avisa quando não tem um .git no seu repositorio.
 
-$ ##git init -> Comando inicial do git, cria uma pasta .git no seu repositorio,essa pasta necessaria para o git funcionar no seu repositorio, um comando muito importante.
+$ git init -> Comando inicial do git, cria uma pasta .git no seu repositorio,essa pasta necessaria para o git funcionar no seu repositorio, um comando muito importante.
 
 $ git add (nome do arquivo/Pasta_) -> Adiciona o arquivou ou pasta escolhida no git.
 $ git add . -> envia todos os arquivos que estão pendentes
