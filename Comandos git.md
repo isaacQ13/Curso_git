@@ -34,5 +34,6 @@
 **$ git mv (arquivo a ser renomeado) (Novo nome do arquivo) "exemplo -> css/ridape.css css/rodape.css** 
 ->esse comando renomeia um arquivo pelo terminal.
 
- 
+**$ git checkuot (nome do arquivo)** -> volta o arquivo para o estado original, antes das novas alterações
 
+**$ git reset --hard origin/main** -> reseta a branch main inteira para o ultimo push dado.
