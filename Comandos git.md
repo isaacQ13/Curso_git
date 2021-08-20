@@ -29,3 +29,10 @@
 
 **$ git log** -> Recebe informação de todos commits feitos no projeto até o momento
 
+**$ git mv (arquivo a ser movido) (local a ser movido) "exemplo -> rodape.css css/rodape.css"** -> esse comando move um arquivo pelo terminal 
+
+**$ git mv (arquivo a ser renomeado) (Novo nome do arquivo) "exemplo -> css/ridape.css css/rodape.css** 
+->esse comando renomeia um arquivo pelo terminal.
+
+ 
+
