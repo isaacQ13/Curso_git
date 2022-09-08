@@ -11,7 +11,6 @@
 **$ git commit -a -m "mensagem"**-> Ele envia todos arquivos que precisam ser commitados no git
 
 **$ git branch -M main** -> Cria uma Ramificação inicial, a mestra.
-git 
 **$ git remote add origin (link do repositorio do github)** -> Comando necessario no inicio de todos repositorios novos, coloca uma origem, para enviar os arquivos no repositorio do github especifico.
 
 **$ git remote -v** -> mostra todas origens cadastradas
